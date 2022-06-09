@@ -1,0 +1,59 @@
+
+
+
+body{
+    background-color: #1c1e26;
+
+}
+
+
+
+
+nav{
+
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #E84C25;
+    color: #1c1e26;
+    font-size: 20px;
+
+
+
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    margin-top: 4%;
+}
+
+footer{
+    margin-top: 22%;
+    color: #E84C25;
+}
+
+.banner{
+    background-color: #E84C25;
+    height: 80%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+
+}
+
+.btn1,.btn2{
+    background-color: #1c1e26;
+    color: white;
+    border-radius: 10px;
+   padding: 10px;
+
+}
+
+h3{
+    color:red;
+}
