@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 
 
 body{
     background-color: #1c1e26;
-
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -38,12 +39,12 @@ footer{
 .banner{
     background-color: #E84C25;
     height: 80%;
-    width: 50%;
+    width: 70%;
     display: flex;
     justify-content: center;
-    margin-left: 25%;
-    margin-right: 25%;
+    align-items: center;
     color: white;
+    margin-left: 15%;
 
 }
 
@@ -551,15 +552,19 @@ h1{
     display: flex;
     align-content: center;
     justify-content: center;
+    margin-top: 2%;
+    padding: 100px;
+    margin-bottom: 3%;
+
 }
 
 .text_shadows {
     text-shadow: 3px 3px 0 var(--color-secondary), 6px 6px 0 var(--color-tertiary),
     9px 9px var(--color-quaternary), 12px 12px 0 var(--color-quinary);
     font-family: bungee, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     text-transform: uppercase;
-    font-size: calc(2rem + 5vw);
+    font-size: calc(3rem + 6vw);
     text-align: center;
     margin: 0;
     color: var(--color-primary);
