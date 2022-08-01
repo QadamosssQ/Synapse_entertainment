@@ -32,8 +32,9 @@ nav{
 }
 
 footer{
-    margin-top: 22%;
+    margin-top: 18%;
     color: #E84C25;
+    margin-bottom: 4%;
 }
 
 .banner{
@@ -56,7 +57,7 @@ footer{
 
 }
 
-.astronn{
+.astronaut{
     display: flex;
     justify-content: center;
 }
@@ -64,7 +65,19 @@ footer{
 
 
 
+.secret-login{
+    text-align: end;
+    background-color: #1c1e26;
+    color: #1c1e26;
+    text-decoration: none;
+    border: none;
 
+
+}
+
+.secret-login-a:link, .secret-login-a:visited {
+    color: #1c1e26;
+}
 
 
 
@@ -640,7 +653,14 @@ h1{
 }
 
 
-
+.text{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 3.5em;
+    padding: 10px;
+    margin-left: 4%;
+}
 
 
 
