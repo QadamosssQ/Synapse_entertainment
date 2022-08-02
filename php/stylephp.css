@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
-    background: linear-gradient(-45deg, #E84C25, #780e32, #2b657c, #1c1e26);
+    background: linear-gradient(-45deg, #E84C25, #780e32, #1d3850, #1c1e26);
     animation: gradient 15s ease infinite;
 }
 

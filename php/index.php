@@ -42,7 +42,7 @@
                     </ul>
                 </li>
                 <li class="nav-item2">
-                    <a class="nav-link" href="php/index.php">Login</a>
+                    <a class="nav-link" href="index.php">Login</a>
                 </li>
 
             </ul>
